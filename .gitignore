@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+
+# Eclipse stuff
+*.cproject
+*.project
+*.settings
+/Doxyfile
+/libs
+*.dll
